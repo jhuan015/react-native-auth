@@ -22,7 +22,7 @@ const styles = {
     borderWidth: 1,
     borderColor: '#007aff',
     marginLeft: 5,
-    marginRight: 5
+    marginRight: 5,
   },
   textStyle: {
     alignSelf: 'center',
@@ -30,8 +30,8 @@ const styles = {
     fontSize: 16,
     fontWeight: '600',
     padding: 10,
-    paddingBottom: 10
-  }
+    paddingBottom: 10,
+  },
 }
 
 export { Button }
